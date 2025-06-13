@@ -1,6 +1,8 @@
 # BUYPOINT - E-Commerce App
 
-A simple and modern e-commerce app for Android that lets you shop, pay, and track your orders easily.
+A simple and modern e-commerce app for Android that lets you explore, shop, and pay your orders easily.
+Real payments are not sucessfull as test API of Razorpay is used.
+
 
 ## What's Inside?
 
@@ -94,4 +96,4 @@ For any help or questions:
 
 ---
 
-Made with ❤️ by BUYPOINT Team 
+Made with ❤️ by ME 
