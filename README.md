@@ -87,13 +87,6 @@ If you face any issues:
 - Payments are secure with Razorpay
 - We don't store card details
 - Your address is private
-
-## Support
-For any help or questions:
-- Email: support@buypoint.com
-- Phone: 1-800-BUYPOINT
-- Hours: 9 AM - 6 PM (IST)
-
 ---
 
 Made with ❤️ by ME 
