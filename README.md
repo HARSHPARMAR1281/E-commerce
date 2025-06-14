@@ -54,6 +54,7 @@ Real payments are not sucessfull as test API of Razorpay is used.
 ## Payment Methods
 
 ### Card Payment
+- Not implemented completely some bugs are there =
 - Enter card details
 - Add CVV
 - Complete payment
@@ -64,6 +65,7 @@ Real payments are not sucessfull as test API of Razorpay is used.
 - Complete payment in app
 
 ### Net Banking
+- Not implemented completely some bugs are there
 - Select your bank
 - Login to bank
 - Complete payment
